@@ -10,10 +10,10 @@ Programmed on to FPGA DE2 Board for testing
 ## Project Overview
 
 ### Data Path
-![](images/D.jpg)
+![](GCDMachine/images/D.JPG)
 
 ### Controller
-![](images/C.jpg)
+![](GCDMachine/images/C.JPG)
 
 ### Final Design
-![](images/E.jpg)
+![](GCDMachine/images/E.JPG)
