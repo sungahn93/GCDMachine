@@ -1,0 +1,11 @@
+function gcd(u,v)
+       	load u and v;
+       	while u /= v do
+          	if u > v then
+         	    u := u - v;
+          	else
+             	v := v - u;
+          	end if;
+       	end while;
+       	output u or v;
+    	end gcd;
